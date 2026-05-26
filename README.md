@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./.github/assets/logotipo.png" alt="Logotipo" height="120">
+    <img src="./assets/logotipo.png" alt="Logotipo" height="80">
 </div>
 
 O **Barbie Universe** é uma aplicação desenvolvida em React Native que apresenta um catálogo interativo de filmes da Barbie. O usuário pode navegar entre diferentes telas para visualizar informações sobre os filmes, personagens e curiosidades, proporcionando uma experiência dinâmica e personalizada para o mundo cor-de-rosa da boneca mais icônica do mundo.
@@ -21,10 +21,10 @@ O projeto foi desenvolvido para a disciplina de Programação para Dispositivos 
 ## 📷 Screenshots
 
 <div align="center">
-    <img src="./.github/assets/screenshot1.png" alt="Screenshot 1 - Tela Home" height="400">
-    <img src="./.github/assets/screenshot2.png" alt="Screenshot 2 - Tela Home" height="400">
-    <img src="./.github/assets/screenshot3.png" alt="Screenshot 3 - Tela de galeria de personagens" height="400">
-    <img src="./.github/assets/screenshot4.png" alt="Screenshot 4 - Tela de detalhes do filme" height="400">
+    <img src="./assets/screenshot1.png" alt="Screenshot 1 - Tela Home" height="400">
+    <img src="./assets/screenshot2.png" alt="Screenshot 2 - Tela Home" height="400">
+    <img src="./assets/screenshot3.png" alt="Screenshot 3 - Tela de galeria de personagens" height="400">
+    <img src="./assets/screenshot4.png" alt="Screenshot 4 - Tela de detalhes do filme" height="400">
 </div>
 
 <br />
