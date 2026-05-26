@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "barbie-universe-app",
+    "slug": "snack-6bcb6ba7-37d9-491d-846b-9a4ce84e4932",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "O Barbie Universe é uma aplicação desenvolvida em React Native que apresenta um catálogo interativo de filmes da Barbie. O usuário pode navegar entre diferentes telas para visualizar informações sobre os filmes, personagens e curiosidades, proporcionando uma experiência dinâmica e personalizada para o mundo cor-de-rosa da boneca mais icônica do mundo."
+  }
+}
