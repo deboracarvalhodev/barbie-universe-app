@@ -21,7 +21,7 @@ O projeto foi desenvolvido para a disciplina de Programação para Dispositivos 
 ## 📷 Screenshots
 
 <div align="center">
-    <img src="./assets/screenshot1.png" alt="Screenshot 1 - Tela Home" height="400">
+    <img src="./assets/screenshot1.png" alt="Screenshot 1 - Tela Welcome" height="400">
     <img src="./assets/screenshot2.png" alt="Screenshot 2 - Tela Home" height="400">
     <img src="./assets/screenshot3.png" alt="Screenshot 3 - Tela de galeria de personagens" height="400">
     <img src="./assets/screenshot4.png" alt="Screenshot 4 - Tela de detalhes do filme" height="400">
@@ -38,7 +38,7 @@ Você pode baixar este projeto em arquivo .zip, clicando no botão <b>Code</b>, 
 $ git clone https://github.com/deboracarvalhodev/barbie-universe-app.git
 
 # Entre na pasta do projeto
-$ cd react-native-orion-app
+$ cd barbie-universe-app
 
 # Instale as dependências
 $ npm install
